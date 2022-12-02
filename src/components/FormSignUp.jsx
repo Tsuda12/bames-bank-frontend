@@ -19,10 +19,6 @@ const FormSignUp = () => {
             <IMaskInput className='mt-10 w-64 h-10 pl-3 font-montserrat italic placeholder:text-gray bg-dark-white transition-all | focus:bg-semi-dark-blue focus:text-white focus:placeholder:text-white focus:border-l-4 focus:border-green focus:outline-0' 
             mask="000.000.000-00" name='cpf' placeholder='CPF'/>
 
-            {/* Born day */}
-            <IMaskInput className='mt-10 w-64 h-10 pl-3 font-montserrat italic placeholder:text-gray bg-dark-white transition-all | focus:bg-semi-dark-blue focus:text-white focus:placeholder:text-white focus:border-l-4 focus:border-green focus:outline-0' 
-            mask="00/00/0000" name='born_day' placeholder='Born day'/>
-
             {/* E-mail */}
             <input className='mt-10 w-64 h-10 pl-3 font-montserrat italic placeholder:text-gray bg-dark-white transition-all | focus:bg-semi-dark-blue focus:text-white focus:placeholder:text-white focus:border-l-4 focus:border-green focus:outline-0'
             type="email" name="email" placeholder='E-mail'></input>

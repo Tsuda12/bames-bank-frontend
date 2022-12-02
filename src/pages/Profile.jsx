@@ -69,7 +69,7 @@ const Profile = () => {
         {/* SETTINGS */}
         <div className='mt-5 w-72 h-72 flex flex-col justify-around items-center bg-white transition-all | hover:transition-all hover:border-b-4 hover:border-green | md:mt-1 | xl:mt-0'>
           <Icon className='text-green' icon={cog} size={60}/>
-          <h1 className='text-5xl text-green font-bebas font-black'>EXTRACT</h1>
+          <h1 className='text-5xl text-green font-bebas font-black'>SETTINGS</h1>
           {/* Text */}
           <div className='flex flex-col justify-center items-center'>
             <p className='text-lg text-dark-blue font-montserrat font-semibold'>Change your informations?</p>
