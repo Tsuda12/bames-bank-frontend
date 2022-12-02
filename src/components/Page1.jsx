@@ -5,7 +5,7 @@ import {arrowCircleRight} from 'react-icons-kit/fa/arrowCircleRight'
 
 const Page1 = () => {
   return (
-    <div className='w-screen h-screen flex flex-col justify-center items-center bg-gradient-to-b from-dark-blue to-semi-dark-blue'>
+    <div className='w-full h-screen flex flex-col justify-center items-center bg-gradient-to-b from-dark-blue to-semi-dark-blue'>
         
         {/* Message */}
         <div className='font-montserrat font-black text-3xl text-white text-center | sm:text-4xl | md:text-5xl | lg:text-6xl'>

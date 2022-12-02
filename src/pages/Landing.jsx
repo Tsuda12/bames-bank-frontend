@@ -11,7 +11,7 @@ import Footer from '../components/Footer'
 
 const Landing = () => {
   return (
-    <div className='scroll-smooth'>
+    <div>
         <NavBar />
         <Page1 />
         <Page2 />

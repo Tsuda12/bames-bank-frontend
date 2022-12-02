@@ -8,4 +8,29 @@
 
 html{
     scroll-behavior: smooth;
+    
 }
+
+body{
+    overflow-x: hidden;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: white
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #01C38D;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #191E29;
+  }
