@@ -33,7 +33,8 @@ module.exports = {
       'green': '#01C38D',
       'dark-white': '#D5D5D5',
       'white': '#FFFFFF',
-      'gray': '#7D7878'
+      'gray': '#7D7878',
+      'red': '#f94449'
     },
     fontFamily: {
       'montserrat': ['Montserrat', 'sans-serif'],
