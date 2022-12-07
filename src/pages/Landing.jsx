@@ -12,7 +12,7 @@ import Footer from '../components/Footer'
 const Landing = () => {
   return (
     <div>
-        <NavBar />
+        <NavBar signup={'Sign Up'} signin={'Sign In'}/>
         <Page1 />
         <Page2 />
         <Page3 />
